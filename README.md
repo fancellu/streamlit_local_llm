@@ -31,7 +31,7 @@ curl http://localhost:1234/v1/chat/completions \
 
 # To run UI
 
-streamlit run main.py
+```streamlit run main.py```
 
 It should launch the browser
 
